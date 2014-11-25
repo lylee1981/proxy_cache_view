@@ -39,12 +39,12 @@ Sets area and key used for purging selected pages from `proxy`'s cache.
 -----------------
 curl "http://www.che168.com/cacheview/exists.html" -x 192.168.193.1:80
 
-Key: /exists.html</br>
-Path: /var/proxy_cache/1/c7/ce0bd73c10ff87305234ef84f5943c71</br>
-Valid: of-file: 1416929775 now: 1416929788 diff: -13</br>
+Key: /exists.html
+Path: /var/proxy_cache/1/c7/ce0bd73c10ff87305234ef84f5943c71
+Valid: of-file: 1416929775 now: 1416929788 diff: -13
 
-HTTP/1.1 200 OK</br>
-Server: nginx/1.4.2</br>
+HTTP/1.1 200 OK
+Server: nginx/1.4.2
 Date: Tue, 25 Nov 2014 15:36:10 GMT
 Content-Type: text/html
 Content-Length: 19
